@@ -54,8 +54,9 @@ export default function App() {
 
   return (
     <>
+      {gameWon && <Confetti />}
       <main>
-        {gameWon && <Confetti />}
+        
         <div aria-live="polite" className="sr-only">
           {gameWon && (
             <p>Congratulations! You won! Press "New Game" to start again.</p>
