@@ -42,9 +42,6 @@ A fun and interactive dice game built with **React**! Roll the dice, hold the nu
 ## 📸 Live
  Click here to [play](https://manikantay11.github.io/tenzies_game/)
 
-## 📜 License
-This project is **open-source** and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 Feel free to submit issues or pull requests!
 
