@@ -40,7 +40,7 @@ A fun and interactive dice game built with **React**! Roll the dice, hold the nu
 - 🖥️ **React Hooks (`useState`, `useEffect`, `useRef`)**
 
 ## 📸 Live
-![Tenzies Game Preview](https://manikantay11.github.io/tenzies_game/)
+![Play here](https://manikantay11.github.io/tenzies_game/)
 
 ## 📜 License
 This project is **open-source** and available under the [MIT License](LICENSE).
